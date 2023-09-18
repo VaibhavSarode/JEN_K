@@ -12,6 +12,9 @@ NEW _ONE
 FZX 
 BOBBER 42 
 
+
+ONCE AGAIN we are deploying the jar via jenkisn automation and via master slave concept.......!!!! Isn't it good !
+
 </body>
 </html>
 
